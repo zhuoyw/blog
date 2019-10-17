@@ -1,0 +1,28 @@
+baseURL = "http://youwei.xyz/"
+languageCode = "en-us"
+title = "youwei"
+theme = "hyde"
+copyright = "Youwei Zhuo"
+
+[Author]
+	name = "Youwei Zhuo"
+
+[Menus]
+	main = [
+		{ Name = "Posts", URL = "/posts"},
+		{ Name = "Tags", URL = "/tags"}
+	]
+
+[Permalinks]
+	posts = "/posts/:year/:month/:day/:filename/"
+
+[taxonomies]
+	tag = "tags"
+
+[params]
+	description = "youwei.xyz"
+	layoutReverse = true
+	themeColor = "theme-base-08"
+	github = "https://github.com/zhuoyw"
+	
+	
