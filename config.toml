@@ -1,5 +1,5 @@
-baseURL = "http://youwei.xyz/"
-languageCode = "en-us"
+baseURL = "http://www.youwei.xyz/"
+languageCode = "zh-cn"
 title = "youwei"
 theme = "hyde"
 copyright = "Youwei Zhuo"
@@ -20,9 +20,10 @@ copyright = "Youwei Zhuo"
 	tag = "tags"
 
 [params]
-	description = "youwei.xyz"
+	description = "用之则行，舍之则藏"
 	layoutReverse = true
 	themeColor = "theme-base-08"
 	github = "https://github.com/zhuoyw"
+	image = "/cat.gif"
 	
 	
