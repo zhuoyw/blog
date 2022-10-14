@@ -1,7 +1,7 @@
 baseURL = "https://zhuoyw.github.io/blog/"
 #baseURL = "https://blog.youwei.xyz/"
 languageCode = "zh-cn"
-title = "youwei"
+title = "Blog de Youwei Zhuo"
 theme = "hyde"
 copyright = "Youwei Zhuo"
 
