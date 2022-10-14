@@ -1,5 +1,6 @@
 baseURL = "https://zhuoyw.github.io/blog/"
 #baseURL = "https://blog.youwei.xyz/"
+canonifyURLs = true
 languageCode = "zh-cn"
 title = "用之则行 舍之则藏"
 theme = "hyde"
