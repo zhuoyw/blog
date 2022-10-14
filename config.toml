@@ -1,7 +1,7 @@
 baseURL = "https://zhuoyw.github.io/blog/"
 #baseURL = "https://blog.youwei.xyz/"
 languageCode = "zh-cn"
-title = "Blog de Youwei Zhuo"
+title = "用之则行 舍之则藏"
 theme = "hyde"
 copyright = "Youwei Zhuo"
 
@@ -21,7 +21,7 @@ copyright = "Youwei Zhuo"
 	tag = "tags"
 
 [params]
-	description = "用之则行，舍之则藏"
+	description = "Blog de Youwei Zhuo"
 	layoutReverse = true
 	themeColor = "theme-base-08"
 	github = "https://github.com/zhuoyw"
